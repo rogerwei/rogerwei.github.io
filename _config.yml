@@ -1,0 +1,11 @@
+# Site settings
+title: 桂云在线
+email: guiyun.wei@gmail.com
+description: 记录技术与生活。
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: jekyllrb
+github_username:  rogerwei
+
+# Build settings
+markdown: kramdown
